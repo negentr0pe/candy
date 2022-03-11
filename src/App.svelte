@@ -21,7 +21,7 @@
   const HEADER_TITLE = "shapes.xyz";
   const HEADER_LINK = "https://solarare.com";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/any.gif";
+  const IMAGE_LINK = "index.gif";
   /***********************************/
 
   let { solana } = window as any;
