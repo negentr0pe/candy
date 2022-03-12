@@ -21,7 +21,7 @@
   const HEADER_TITLE = "XenoFlora.art";
   const HEADER_LINK = "XenoFlora.art";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "index.gif";
+  const IMAGE_LINK = "example.gif";
   /***********************************/
 
   let { solana } = window as any;
