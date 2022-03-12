@@ -16,10 +16,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Blooms";
-  const DESCRTIPTION = "A collection of flowers on the blockchain";
-  const HEADER_TITLE = "BloomNFT.art";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "XenoFlora";
+  const DESCRTIPTION = "A collection of algorithmicly generated flowers on the solana blockchain";
+  const HEADER_TITLE = "XenoFlora.art";
+  const HEADER_LINK = "XenoFlora.ar";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "index.gif";
   /***********************************/
