@@ -145,7 +145,7 @@
       <div class="p-6">
         <img src={IMAGE_LINK} alt="" class=" w-1/2 mx-auto m-5" />
         <div
-          class=" text-lg sm:text-2xl font-mono font-bold py-5 tracking-wider"
+          class=" text-lg sm:text-2xl font-arial font-bold py-5 tracking-wider"
         >
           {TITLE}
         </div>
