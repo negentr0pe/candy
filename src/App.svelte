@@ -18,8 +18,8 @@
   // Customise the app by changing the following variables.
   const TITLE = "XenoFlora";
   const DESCRTIPTION = "A collection of 500 algorithmicly generated flowers on the solana blockchain";
-  const HEADER_TITLE = "XenoFlora.art";
-  const HEADER_LINK = "www.XenoFlora.art";
+  const HEADER_TITLE = "XenoBlooms.art";
+  const HEADER_LINK = "http://www.xenoblooms.art";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "example.gif";
   /***********************************/
@@ -128,7 +128,7 @@
     {#if HEADER_TITLE}
       <a
         href={HEADER_LINK}
-        class="text-black tracking-widest underline underline-offset-4 decoration-2 font-mono"
+        class="text-black tracking-widest underline underline-offset-4 decoration-2 font-arial"
         >{HEADER_TITLE}</a
       >
     {/if}
