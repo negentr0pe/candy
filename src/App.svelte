@@ -16,7 +16,7 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "XenoFlora";
+  const TITLE = "XenoBlooms";
   const DESCRTIPTION = "A collection of 500 algorithmicly generated flowers on the solana blockchain";
   const HEADER_TITLE = "XenoBlooms.art";
   const HEADER_LINK = "http://www.xenoblooms.art";
